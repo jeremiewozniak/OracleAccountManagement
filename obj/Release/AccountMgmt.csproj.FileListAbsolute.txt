@@ -1,0 +1,21 @@
+E:\TNS_DEV_3.0\AccountMgmt\obj\Release\AccountMgmt.exe
+E:\TNS_DEV_3.0\AccountMgmt\bin\Release\AccountMgmt.exe
+E:\TNS_DEV_3.0\AccountMgmt\obj\Release\ResolveAssemblyReference.cache
+E:\TNS_DEV_3.0\AccountMgmt\obj\Release\AccountMgmt.frmAffectedUser.resources
+E:\TNS_DEV_3.0\AccountMgmt\obj\Release\AccountMgmt.frmConnect.resources
+E:\TNS_DEV_3.0\AccountMgmt\obj\Release\AccountMgmt.frmHelp.resources
+E:\TNS_DEV_3.0\AccountMgmt\obj\Release\AccountMgmt.frmMain.resources
+E:\TNS_DEV_3.0\AccountMgmt\obj\Release\AccountMgmt.frmOracleProfile.resources
+E:\TNS_DEV_3.0\AccountMgmt\obj\Release\AccountMgmt.csproj.GenerateResource.Cache
+C:\Users\ttJeremieW\Documents\Visual Studio 2015\Projects\AccountMgmt\obj\Release\AccountMgmt.exe
+C:\Users\ttJeremieW\Desktop\AccountMgmt\obj\Release\AccountMgmt.csprojResolveAssemblyReference.cache
+C:\Users\ttJeremieW\Desktop\AccountMgmt\obj\Release\AccountMgmt.frmAffectedUser.resources
+C:\Users\ttJeremieW\Desktop\AccountMgmt\obj\Release\AccountMgmt.frmConnect.resources
+C:\Users\ttJeremieW\Desktop\AccountMgmt\obj\Release\AccountMgmt.frmHelp.resources
+C:\Users\ttJeremieW\Desktop\AccountMgmt\obj\Release\AccountMgmt.frmMain.resources
+C:\Users\ttJeremieW\Desktop\AccountMgmt\obj\Release\AccountMgmt.frmOracleProfile.resources
+C:\Users\ttJeremieW\Desktop\AccountMgmt\obj\Release\AccountMgmt.csproj.GenerateResource.Cache
+C:\Users\ttJeremieW\Desktop\AccountMgmt\obj\Release\AccountMgmt.exe
+C:\Users\ttJeremieW\Desktop\AccountMgmt\bin\Release\AccountMgmt.exe.config
+C:\Users\ttJeremieW\Desktop\AccountMgmt\bin\Release\AccountMgmt.exe
+C:\Users\ttJeremieW\Desktop\AccountMgmt\bin\Release\Oracle.ManagedDataAccess.dll

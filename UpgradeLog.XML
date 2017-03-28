@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AccountMgmt">
+</Property><Property Name="Solution File" Value="E:\TNS_DEV_3.0\AccountMgmt\AccountMgmt.sln">
+</Property><Property Name="Date" Value="lundi 3 janvier 2011">
+</Property><Property Name="Time" Value="17:11">
+</Property></Properties><Event ErrorLevel="0" Project="AccountMgmt" Source="AccountMgmt.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AccountMgmt" Source="AccountMgmt.csproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="" Source="AccountMgmt.sln" Description="Solution file 'E:\TNS_DEV_3.0\AccountMgmt\AccountMgmt.sln' cannot be converted because it is read-only on disk. To convert the solution, change the permissions on the solution file to allow modification and re-open it.">
+</Event><Event ErrorLevel="3" Project="" Source="AccountMgmt.sln" Description="Not Converted">
+</Event></UpgradeLog>

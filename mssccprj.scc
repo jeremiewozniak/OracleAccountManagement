@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[AccountMgmt.csproj]
+SCC_Aux_Path = "\\Vss\VSS-TNS\"
+SCC_Project_Name = "$/MOA/TNS.MOA.AccountMgmt", XSQAAAAA
+
+[AccountMgmt.sln]
+SCC_Aux_Path = "\\Vss\VSS-TNS\"
+SCC_Project_Name = "$/MOA/TNS.MOA.AccountMgmt", XSQAAAAA

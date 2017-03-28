@@ -1,0 +1,20 @@
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(COMMUNITY=tcp.pige)(PROTOCOL=TCP)(HOST=SUMATRA)(PORT=1521))(CONNECT_DATA=(SID=PITAFR01)(CID=(PROGRAM=C:\Sources\Gestion comptes oracle\AccountMgmt\bin\Debug\AccountMgmt.exe)(HOST=INFO_DRETHO_XP)(USER=dretho))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 21-DEC-2004 14:38:23
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12541
+    TNS-12541: TNS : aucun module d'écoute (listener)
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Pas de module d'écoute (listener)
+    nt secondary err code: 61
+    nt OS err code: 0
